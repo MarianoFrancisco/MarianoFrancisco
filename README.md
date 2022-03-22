@@ -31,6 +31,9 @@ Here are some ideas to get you started:
   <img align="center" alt="Rafa-TOMCAT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg">
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://thumbs.dreamstime.com/b/letra-m-el-fuego-azul-arde-en-negro-157762892.jpg">
 </div>
+  <br>
+  <br>
+  <br>
 <div> 
   <a href="https://www.youtube.com/channel/UCi46u72WKVDsjnYnc77MZpw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/mariano_camposeco" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
